@@ -1,6 +1,7 @@
+#Sorting videos by emotion
+
 import os
 import shutil
-
 
 cwd = os.getcwd()
 

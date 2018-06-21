@@ -1,6 +1,8 @@
+# Saving ptd files (as downloaded from http://paco.psy.gla.ac.uk/index.php/res/download-data/viewcategory/5-body-movement-library)
+# as txt files for animating
+
 import os
 import shutil
-
 
 cwd = os.getcwd()
 
